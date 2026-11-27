@@ -1,0 +1,6 @@
+{
+  "id": "SIMULATED-OUTAGE",
+  "eventType": "OUTAGE",
+  "locations": ["BR"],
+  "locationsDetails": [{"code": "BR", "name": "Simulação local"}]
+}
